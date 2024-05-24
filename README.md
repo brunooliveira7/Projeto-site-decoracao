@@ -7,7 +7,7 @@ https://brunooliveira7.github.io/Projeto-site-agencia-viagens/
 
 Layout básica de site web desenvolvido através de uma atividade do curso FullStack idealizado pela [RocketSeat](https://www.rocketseat.com.br/).
 
-Você pode visualizar o layout completa do projeto através [DESSE LINK](https://www.figma.com/design/7oBtItTwuNt4OwCcsqApwu/Projeto01-Extra-(Copy)?node-id=1-2&t=CQ4x7gVLZ44YOxGK-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout completa do projeto através [DESSE LINK](https://www.figma.com/design/o5L9ThR0tlvuKQvdXFZMZu/Explorer---Projeto-01-(Copy)?node-id=0-1&t=vzOAgc9msjBlqAA3-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 
 ## Layout web

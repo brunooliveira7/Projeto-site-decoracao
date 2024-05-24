@@ -1,4 +1,4 @@
-# Layout de site - Agência de Viagens  
+# Layout de site - Loja de Decoração
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # Sobre o projeto

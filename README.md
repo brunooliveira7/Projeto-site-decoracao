@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://brunooliveira7.github.io/Projeto-site-decoracao/#
+https://brunooliveira7.github.io/Projeto-site-decoracao/
 
 Layout básica de site web desenvolvido através de uma atividade do curso FullStack idealizado pela [RocketSeat](https://www.rocketseat.com.br/).
 
